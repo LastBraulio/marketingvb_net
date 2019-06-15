@@ -1,0 +1,22 @@
+C:\Users\darkm\AppData\Local\Temporary Projects\EmailMarketing\bin\Debug\EmailMarketing.exe
+C:\Users\darkm\AppData\Local\Temporary Projects\EmailMarketing\bin\Debug\EmailMarketing.pdb
+C:\Users\darkm\AppData\Local\Temporary Projects\EmailMarketing\bin\Debug\EmailMarketing.xml
+C:\Users\darkm\AppData\Local\Temporary Projects\EmailMarketing\obj\x86\Debug\EmailMarketing.CargarExcelClientes.resources
+C:\Users\darkm\AppData\Local\Temporary Projects\EmailMarketing\obj\x86\Debug\EmailMarketing.Form1.resources
+C:\Users\darkm\AppData\Local\Temporary Projects\EmailMarketing\obj\x86\Debug\EmailMarketing.Resources.resources
+C:\Users\darkm\AppData\Local\Temporary Projects\EmailMarketing\obj\x86\Debug\EmailMarketing.vbproj.GenerateResource.Cache
+C:\Users\darkm\AppData\Local\Temporary Projects\EmailMarketing\obj\x86\Debug\EmailMarketing.exe
+C:\Users\darkm\AppData\Local\Temporary Projects\EmailMarketing\obj\x86\Debug\EmailMarketing.xml
+C:\Users\darkm\AppData\Local\Temporary Projects\EmailMarketing\obj\x86\Debug\EmailMarketing.pdb
+C:\Users\darkm\OneDrive\Documentos\Visual Studio 2010\Projects\EmailMarketing\EmailMarketing\obj\x86\Debug\EmailMarketing.exe
+C:\Users\darkm\OneDrive\Documentos\Visual Studio 2010\Projects\EmailMarketing\EmailMarketing\obj\x86\Debug\EmailMarketing.xml
+C:\Users\darkm\OneDrive\Documentos\Visual Studio 2010\Projects\EmailMarketing\EmailMarketing\obj\x86\Debug\EmailMarketing.pdb
+C:\Users\darkm\OneDrive\Documentos\Visual Studio 2010\Projects\EmailMarketing\EmailMarketing\bin\Debug\EmailMarketing.exe
+C:\Users\darkm\OneDrive\Documentos\Visual Studio 2010\Projects\EmailMarketing\EmailMarketing\bin\Debug\EmailMarketing.pdb
+C:\Users\darkm\OneDrive\Documentos\Visual Studio 2010\Projects\EmailMarketing\EmailMarketing\bin\Debug\EmailMarketing.xml
+C:\Users\darkm\OneDrive\Documentos\Visual Studio 2010\Projects\EmailMarketing\EmailMarketing\obj\x86\Debug\EmailMarketing.CargarExcelClientes.resources
+C:\Users\darkm\OneDrive\Documentos\Visual Studio 2010\Projects\EmailMarketing\EmailMarketing\obj\x86\Debug\EmailMarketing.ClienteAccess.resources
+C:\Users\darkm\OneDrive\Documentos\Visual Studio 2010\Projects\EmailMarketing\EmailMarketing\obj\x86\Debug\EmailMarketing.EnviosMasivos.resources
+C:\Users\darkm\OneDrive\Documentos\Visual Studio 2010\Projects\EmailMarketing\EmailMarketing\obj\x86\Debug\EmailMarketing.Form1.resources
+C:\Users\darkm\OneDrive\Documentos\Visual Studio 2010\Projects\EmailMarketing\EmailMarketing\obj\x86\Debug\EmailMarketing.Resources.resources
+C:\Users\darkm\OneDrive\Documentos\Visual Studio 2010\Projects\EmailMarketing\EmailMarketing\obj\x86\Debug\EmailMarketing.vbproj.GenerateResource.Cache
